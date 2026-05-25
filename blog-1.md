@@ -1,6 +1,6 @@
 # Why `any` is Called a Type Safety Hole and Why `unknown` is Safer in TypeScript
 
-
+## Introduction
 
 TypeScript is popular because it helps developers write safer and more predictable code using types. But sometimes we work with data whose type is unknown, especially when receiving API responses or user input.
 

@@ -1,6 +1,7 @@
 
 # How Generics Build Reusable and Strictly Typed Code in TypeScript
 
+## Introduction
 
 One of the most powerful features of TypeScript is **Generics**.
 
